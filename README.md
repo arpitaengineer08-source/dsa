@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/0001-two-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
