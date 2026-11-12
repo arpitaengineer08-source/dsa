@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
 | [2747-count-zero-request-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitaengineer08-source/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/arpitaengineer08-source/dsa/tree/master/3665-twisted-mirror-path-count) |
