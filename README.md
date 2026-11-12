@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitaengineer08-source/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitaengineer08-source/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/arpitaengineer08-source/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arpitaengineer08-source/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arpitaengineer08-source/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -174,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/arpitaengineer08-source/dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
