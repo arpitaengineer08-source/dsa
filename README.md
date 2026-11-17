@@ -1,251 +1,29 @@
-# dsa
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Data Structures & Algorithms — LeetCode Practice
+
+A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
+
+## Purpose
+
+- Build consistency through regular coding practice.
+- Strengthen problem-solving and algorithmic thinking.
+- Revisit common interview patterns across data structures and topics.
+- Keep solutions organised and easy to browse.
+
+## Topics
+
+The repository's generated topic index groups solutions into areas including:
+
+- Arrays and strings
+- Binary search and sorting
+- Hash tables and bit manipulation
+- Greedy algorithms
+- Heaps and priority queues
+- Trees and binary trees
+- Graph traversal, including BFS and DFS
+- Dynamic programming
+- Union-Find and segment trees
+- Combinatorics and mathematical techniques
+
+See the topic index below for the problem links and the current set of solutions.
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/0001-two-sum) |
-| [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
-| [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
-| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
-| [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitaengineer08-source/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arpitaengineer08-source/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
-| [1882-process-tasks-using-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/1882-process-tasks-using-servers) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/arpitaengineer08-source/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2747-count-zero-request-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/2747-count-zero-request-servers) |
-| [2778-sum-of-squares-of-special-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitaengineer08-source/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
-| [3364-minimum-positive-sum-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3364-minimum-positive-sum-subarray) |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
-| [3644-maximum-k-to-sort-a-permutation](https://github.com/arpitaengineer08-source/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
-| [3665-twisted-mirror-path-count](https://github.com/arpitaengineer08-source/dsa/tree/master/3665-twisted-mirror-path-count) |
-| [3693-climbing-stairs-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/3693-climbing-stairs-ii) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
-| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arpitaengineer08-source/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-| [3882-minimum-xor-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
-| [3886-sum-of-sortable-integers](https://github.com/arpitaengineer08-source/dsa/tree/master/3886-sum-of-sortable-integers) |
-| [3942-minimum-operations-to-sort-a-permutation](https://github.com/arpitaengineer08-source/dsa/tree/master/3942-minimum-operations-to-sort-a-permutation) |
-## Binary Search
-|  |
-| ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitaengineer08-source/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/arpitaengineer08-source/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
-## Greedy
-|  |
-| ------- |
-| [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [3723-maximize-sum-of-squares-of-digits](https://github.com/arpitaengineer08-source/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
-## Sorting
-|  |
-| ------- |
-| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitaengineer08-source/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/arpitaengineer08-source/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2747-count-zero-request-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/2747-count-zero-request-servers) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-| [3727-maximum-alternating-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
-| [3886-sum-of-sortable-integers](https://github.com/arpitaengineer08-source/dsa/tree/master/3886-sum-of-sortable-integers) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arpitaengineer08-source/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
-| [1882-process-tasks-using-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/1882-process-tasks-using-servers) |
-| [2333-minimum-sum-of-squared-difference](https://github.com/arpitaengineer08-source/dsa/tree/master/2333-minimum-sum-of-squared-difference) |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arpitaengineer08-source/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-## Enumeration
-|  |
-| ------- |
-| [2778-sum-of-squares-of-special-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
-| [3886-sum-of-sortable-integers](https://github.com/arpitaengineer08-source/dsa/tree/master/3886-sum-of-sortable-integers) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/0001-two-sum) |
-| [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
-| [2747-count-zero-request-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/2747-count-zero-request-servers) |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitaengineer08-source/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
-## Bit Manipulation
-|  |
-| ------- |
-| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/arpitaengineer08-source/dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
-| [3644-maximum-k-to-sort-a-permutation](https://github.com/arpitaengineer08-source/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-| [3882-minimum-xor-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
-## Math
-|  |
-| ------- |
-| [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
-| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [2409-count-days-spent-together](https://github.com/arpitaengineer08-source/dsa/tree/master/2409-count-days-spent-together) |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| [3723-maximize-sum-of-squares-of-digits](https://github.com/arpitaengineer08-source/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
-| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arpitaengineer08-source/dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
-| [3886-sum-of-sortable-integers](https://github.com/arpitaengineer08-source/dsa/tree/master/3886-sum-of-sortable-integers) |
-## Binary Indexed Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitaengineer08-source/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-## Segment Tree
-|  |
-| ------- |
-| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/arpitaengineer08-source/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
-| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-## Divide and Conquer
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arpitaengineer08-source/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-| [3665-twisted-mirror-path-count](https://github.com/arpitaengineer08-source/dsa/tree/master/3665-twisted-mirror-path-count) |
-| [3693-climbing-stairs-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/3693-climbing-stairs-ii) |
-| [3882-minimum-xor-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
-## Tree
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-## Union-Find
-|  |
-| ------- |
-| [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
-## Binary Search Tree
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Memoization
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Combinatorics
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## Fermat's Little Theorem
-|  |
-| ------- |
-| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/arpitaengineer08-source/dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
-## String
-|  |
-| ------- |
-| [2243-calculate-digit-sum-of-a-string](https://github.com/arpitaengineer08-source/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
-| [2409-count-days-spent-together](https://github.com/arpitaengineer08-source/dsa/tree/master/2409-count-days-spent-together) |
-| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arpitaengineer08-source/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-| [3863-minimum-operations-to-sort-a-string](https://github.com/arpitaengineer08-source/dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
-| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arpitaengineer08-source/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-## Depth-First Search
-|  |
-| ------- |
-| [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
-| [3841-palindromic-path-queries-in-a-tree](https://github.com/arpitaengineer08-source/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/arpitaengineer08-source/dsa/tree/master/0073-set-matrix-zeroes) |
-| [1254-number-of-closed-islands](https://github.com/arpitaengineer08-source/dsa/tree/master/1254-number-of-closed-islands) |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
-| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/arpitaengineer08-source/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
-| [3665-twisted-mirror-path-count](https://github.com/arpitaengineer08-source/dsa/tree/master/3665-twisted-mirror-path-count) |
-| [3882-minimum-xor-path-in-a-grid](https://github.com/arpitaengineer08-source/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
-## Graph Theory
-|  |
-| ------- |
-| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arpitaengineer08-source/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-## Shortest Path
-|  |
-| ------- |
-| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/arpitaengineer08-source/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [2747-count-zero-request-servers](https://github.com/arpitaengineer08-source/dsa/tree/master/2747-count-zero-request-servers) |
-| [3364-minimum-positive-sum-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3364-minimum-positive-sum-subarray) |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/arpitaengineer08-source/dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
-## Two Pointers
-|  |
-| ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/arpitaengineer08-source/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
-| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/arpitaengineer08-source/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
-## Simulation
-|  |
-| ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arpitaengineer08-source/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
-| [2243-calculate-digit-sum-of-a-string](https://github.com/arpitaengineer08-source/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
-## Ordered Set
-|  |
-| ------- |
-| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/arpitaengineer08-source/dsa/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
-## Stack
-|  |
-| ------- |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-## Queue
-|  |
-| ------- |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-## Monotonic Stack
-|  |
-| ------- |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-## Monotonic Queue
-|  |
-| ------- |
-| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/arpitaengineer08-source/dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
-## Prefix Sum
-|  |
-| ------- |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arpitaengineer08-source/dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [3364-minimum-positive-sum-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3364-minimum-positive-sum-subarray) |
-<!---LeetCode Topics End-->
