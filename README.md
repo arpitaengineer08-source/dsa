@@ -32,6 +32,18 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arpitaengineer08-source/dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+## Array
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->thms — LeetCode Practice
 
 A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
