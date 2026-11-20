@@ -36,6 +36,7 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +45,11 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->thms — LeetCode Practice
 
 A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
