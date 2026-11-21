@@ -32,11 +32,13 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arpitaengineer08-source/dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Array
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,18 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Hash Table
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->thms — LeetCode Practice
 
 A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
