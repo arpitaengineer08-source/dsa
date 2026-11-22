@@ -31,6 +31,7 @@ See the topic index below for the problem links and the current set of solutions
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/arpitaengineer08-source/dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/arpitaengineer08-source/dsa/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Array
