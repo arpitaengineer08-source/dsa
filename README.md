@@ -37,6 +37,7 @@ See the topic index below for the problem links and the current set of solutions
 ## Array
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/arpitaengineer08-source/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -65,6 +66,22 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/arpitaengineer08-source/dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/arpitaengineer08-source/dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/arpitaengineer08-source/dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/arpitaengineer08-source/dsa/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->thms — LeetCode Practice
 
 A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
