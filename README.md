@@ -42,6 +42,7 @@ See the topic index below for the problem links and the current set of solutions
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arpitaengineer08-source/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/arpitaengineer08-source/dsa/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +98,22 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/arpitaengineer08-source/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->thms — LeetCode Practice
 
 A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
