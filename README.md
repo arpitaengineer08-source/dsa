@@ -44,16 +44,19 @@ See the topic index below for the problem links and the current set of solutions
 | [3411-maximum-subarray-with-equal-products](https://github.com/arpitaengineer08-source/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/arpitaengineer08-source/dsa/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/arpitaengineer08-source/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/arpitaengineer08-source/dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/arpitaengineer08-source/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/arpitaengineer08-source/dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +125,10 @@ See the topic index below for the problem links and the current set of solutions
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/arpitaengineer08-source/dsa/tree/master/3360-stone-removal-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/arpitaengineer08-source/dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->thms — LeetCode Practice
 
 A structured collection of solved LeetCode problems, organised by topic and maintained through LeetHub v2. This repository documents ongoing problem-solving practice across core data structures and algorithmic techniques.
